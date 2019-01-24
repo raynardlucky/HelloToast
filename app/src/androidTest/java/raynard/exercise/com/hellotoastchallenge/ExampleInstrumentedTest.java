@@ -1,4 +1,4 @@
-package raynard.exercise.com.hellotoast;
+package raynard.exercise.com.hellotoastchallenge;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("raynard.exercise.com.hellotoast", appContext.getPackageName());
+        assertEquals("raynard.exercise.com.hellotoastchallenge", appContext.getPackageName());
     }
 }

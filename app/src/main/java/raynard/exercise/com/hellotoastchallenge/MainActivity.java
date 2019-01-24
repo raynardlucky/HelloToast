@@ -1,4 +1,4 @@
-package raynard.exercise.com.hellotoast;
+package raynard.exercise.com.hellotoastchallenge;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
